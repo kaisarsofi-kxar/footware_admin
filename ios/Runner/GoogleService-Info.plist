@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBOg-LD2IzYFJuwxeeMFRnLcVYTz6mdZCY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>495607752023</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.footwareAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>footware-app-77436</string>
+	<key>STORAGE_BUCKET</key>
+	<string>footware-app-77436.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:495607752023:ios:276eaaa8d2f4b8eae90a12</string>
+</dict>
+</plist>
